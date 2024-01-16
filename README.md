@@ -36,7 +36,8 @@ The official Kings & Thieves utils turborepo. This turborepo uses [pnpm](https:/
 
 ### Apps
 
-- `masking`: middleware that masks the projects hostname to an origin domain
+- `redirect`: middleware that redirects to the destination domain
+- `rewrite`: middleware that rewrites the projects hostname to an origin domain
 
 ## Setup
 

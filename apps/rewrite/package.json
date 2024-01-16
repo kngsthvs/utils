@@ -13,7 +13,7 @@
     "eslint": "7.32.0",
     "typescript": "^5.0.4"
   },
-  "name": "mask",
+  "name": "rewrite",
   "private": true,
   "scripts": {
     "dev": "next dev",
