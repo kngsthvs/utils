@@ -43,7 +43,7 @@ The official Kings & Thieves utils turborepo. This turborepo uses [pnpm](https:/
 ```bash
 # Clone and navigate to the project
 git clone https://github.com/kngsthvs/utils.git
-cd template
+cd utils
 
 # Install the packages
 pnpm i
